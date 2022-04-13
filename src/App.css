@@ -1,0 +1,7 @@
+.app-css{
+  padding: 30px;
+  background-color: rgba(73,96,107,255);
+}
+*{
+  box-sizing: border-box;
+}

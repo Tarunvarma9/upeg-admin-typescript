@@ -1,0 +1,20 @@
+.Navbar-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffff;
+    padding: 10px;
+}
+.navbar-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 50%;
+}
+.navbar-icons{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}

@@ -1,0 +1,57 @@
+.home-container{
+    background-color: #ecf2f6;
+    height: 100vh;
+    border-radius: 10px;
+}
+.Navbar-container{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+ul {
+    list-style-type: none;
+    padding: 0px;
+  }
+.common-container{
+    margin: 10px;
+    background-color: #ffff;
+    padding: 5px;
+}  
+.icons-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 120px;
+    background-color: rgba(229,224,236,255);
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}  
+.icons{
+    width: 50px;
+    height: 50px;
+}
+.paragraph{
+    margin: 0px;
+    font-size: 10px;
+    text-align: center;
+}
+.common-card-items{
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.title{
+    font-size: 20px;
+    margin-left: 5px;
+}
+.hr-style{
+    margin-left: 5px;
+    width: 95%;
+}

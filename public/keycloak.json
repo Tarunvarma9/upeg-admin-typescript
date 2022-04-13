@@ -1,0 +1,6 @@
+{
+    "realm": "demo",
+    "auth-server-url": "https://xkeycloak.effigo.in/auth/",
+    "resource": "web-reactjs",
+    "use-resource-role-mappings": true
+}
